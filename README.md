@@ -49,9 +49,9 @@ Distributed under the [MIT License](LICENSE).
 
 For inquiries and issues, feel free to reach out:
 
-- **Mashika Hamed**
-- 📧 **mashikahamed0@gmail.com**
-- 🌐 **[StudioAs Inc.](https://studioasinc.github.io/web/)**
+- **SudiaAs_team**
+- 📧 **sketchstorea@gmail.com**
+- 🌐 **[StudioAs Inc.](https://naru12345.github.io/web/)**
 
 ---
 
